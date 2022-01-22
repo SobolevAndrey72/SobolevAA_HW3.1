@@ -11,6 +11,7 @@
 		A106C3FA2799EC0800DF45EF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A106C3F92799EC0800DF45EF /* ContentView.swift */; };
 		A106C3FC2799EC0900DF45EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A106C3FB2799EC0900DF45EF /* Assets.xcassets */; };
 		A106C3FF2799EC0900DF45EF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A106C3FE2799EC0900DF45EF /* Preview Assets.xcassets */; };
+		A124A66E279BF44B00CF8B29 /* CircleColorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A124A66D279BF44B00CF8B29 /* CircleColorView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		A106C3F92799EC0800DF45EF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A106C3FB2799EC0900DF45EF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A106C3FE2799EC0900DF45EF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A124A66D279BF44B00CF8B29 /* CircleColorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleColorView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				A106C3F72799EC0800DF45EF /* SobolevAA_HW3_1App.swift */,
 				A106C3F92799EC0800DF45EF /* ContentView.swift */,
+				A124A66D279BF44B00CF8B29 /* CircleColorView.swift */,
 				A106C3FB2799EC0900DF45EF /* Assets.xcassets */,
 				A106C3FD2799EC0900DF45EF /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				A106C3FA2799EC0800DF45EF /* ContentView.swift in Sources */,
 				A106C3F82799EC0800DF45EF /* SobolevAA_HW3_1App.swift in Sources */,
+				A124A66E279BF44B00CF8B29 /* CircleColorView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
