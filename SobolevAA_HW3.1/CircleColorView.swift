@@ -18,13 +18,12 @@ struct CircleColorView: View {
             .clipShape(Circle())
             .overlay(Circle().stroke(Color.white, lineWidth: 5))
             .shadow(radius: 10)
- 
+        
     }
 }
 
 struct CircleColorView_Previews: PreviewProvider {
     static var previews: some View {
-        //let opacity : Double
         CircleColorView(color: .red, opacity: 1)
     }
 }
